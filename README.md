@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @manjaygv
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C
+- 📫 How to reach me manjaygv@proton.me
